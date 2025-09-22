@@ -9,7 +9,7 @@ It is intended as a playground for practicing Git, GitHub, and Python coding.
 - Generate random numbers  
 - Simple calculator (add, subtract, multiply, divide)  
 - Factorial calculator  
-- Prime number checker  
+- Prime number checker humz
 
 ---
 
